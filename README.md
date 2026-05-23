@@ -4,22 +4,19 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend-Focused+Fullstack+Developer;Building+clean+and+immersive+digital+experiences;React+%2B+TypeScript+Engineer;Modern+UI+Interaction+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend-Focused+Fullstack+Developer;Building+clean+and+immersive+digital+experiences;React+%2B+TypeScript+Engineer;Modern+UI+Interaction+Enthusiast" />
 
 <br/><br/>
 
 <a href="mailto:panjaitanjakkob@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/jakk_0b/">
   <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<a href="https://www.linkedin.com/in/jakkob-panjaitan-9631a7408/?skipRedirect=true">
+<a href="https://www.linkedin.com/in/jakkob-panjaitan-9631a7408/">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://jakkob-oktapianus-michael-panjaitan.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -43,7 +40,7 @@ Most of my work revolves around modern frontend ecosystems, interactive UI motio
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -51,17 +48,13 @@ Most of my work revolves around modern frontend ecosystems, interactive UI motio
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D0D0D?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-0D0D0D?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
 ## Backend & Database
 
 ![Laravel](https://img.shields.io/badge/Laravel-0D0D0D?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0D0D0D?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 ## Tools & Workflow
 
@@ -82,6 +75,7 @@ Trusted as the PIC and Fullstack Developer for building the official digital pla
 🔗 https://ywdp.org/
 
 ### Focus Areas
+
 - Modern responsive frontend architecture
 - Clean and scalable backend integration
 - Interactive user experience
@@ -94,19 +88,9 @@ Trusted as the PIC and Fullstack Developer for building the official digital pla
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laomanda&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laomanda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laomanda&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" />
-
-</div>
-
----
-
-# Wakatime Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=laomanda&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laomanda&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -128,13 +112,7 @@ Trusted as the PIC and Fullstack Developer for building the official digital pla
 const jakkob = {
   role: "Frontend-Focused Fullstack Developer",
   building: "Modern immersive web experiences",
-  stack: [
-    "React",
-    "TypeScript",
-    "Laravel",
-    "Node.js",
-    "TailwindCSS"
-  ],
+  stack: ["React", "TypeScript", "Laravel", "Node.js", "TailwindCSS"],
   interests: [
     "Interactive UI",
     "Motion Design",

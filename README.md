@@ -88,9 +88,9 @@ Trusted as the PIC and Fullstack Developer for building the official digital pla
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laomanda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laomanda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laomanda&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laomanda&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 

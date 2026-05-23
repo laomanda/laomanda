@@ -98,9 +98,11 @@ Trusted as the PIC and Fullstack Developer for building the official digital pla
 
 # Contribution Activity
 
+# Contribution Activity
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/laomanda/laomanda/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/laomanda/laomanda/output/github-snake.svg" width="100%" />
 
 </div>
 

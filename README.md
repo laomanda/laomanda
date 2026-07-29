@@ -134,8 +134,6 @@ Platform digital resmi milik DPF Wakaf — dikembangkan penuh sebagai **PIC & Fu
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laomanda&theme=tokyonight&hide_border=true" width="70%" />
-
 </div>
 
 ---

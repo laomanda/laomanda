@@ -32,13 +32,6 @@
 
 ### 🧭 Tentang Saya
 
-```yaml
-role: Frontend-Focused Fullstack Developer
-focus: Membangun antarmuka yang bersih, responsif, dan terasa "hidup"
-belief: "Good interfaces are felt before they are noticed."
-currently: PIC & Fullstack Developer di DPF Wakaf Platform
-```
-
 Saya berfokus pada pengembangan produk digital modern dengan arsitektur yang rapi dan interaksi pengguna yang imersif — memadukan detail motion di frontend dengan sistem backend yang scalable dan efisien.
 
 <br/>
@@ -97,47 +90,6 @@ Saya berfokus pada pengembangan produk digital modern dengan arsitektur yang rap
 
 </details>
 
----
-
-### 🚀 Featured Project
-
-<table>
-<tr>
-<td width="100%">
-
-**DPF Wakaf Website**
-Platform digital resmi milik DPF Wakaf — dikembangkan penuh sebagai **PIC & Fullstack Developer**.
-
-🔗 **Live:** [ywdp.org](https://ywdp.org/)
-
-**Focus Areas:**
-| Area | Detail |
-|---|---|
-| 🎯 Frontend | Arsitektur responsif dan modern |
-| 🔗 Backend | Integrasi API yang bersih dan scalable |
-| ✨ UX | Interaksi pengguna yang imersif |
-| ⚙️ Deployment | Alur produksi yang siap pakai |
-| 📈 Performance | Optimasi kecepatan dan maintainability |
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laomanda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laomanda&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
@@ -147,23 +99,6 @@ Platform digital resmi milik DPF Wakaf — dikembangkan penuh sebagai **PIC & Fu
 </div>
 
 ---
-
-### 🧩 Currently
-
-```ts
-const jakkob = {
-  role: "Frontend-Focused Fullstack Developer",
-  building: "Modern immersive web experiences",
-  stack: ["React", "TypeScript", "Laravel", "Node.js", "TailwindCSS"],
-  interests: [
-    "Interactive UI",
-    "Motion Design",
-    "Clean Architecture",
-    "Frontend Experience",
-  ],
-  status: "Probably polishing UI spacing at midnight 🌙",
-} as const;
-```
 
 ---
 

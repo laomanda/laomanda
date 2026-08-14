@@ -36,17 +36,6 @@ Saya berfokus pada pengembangan produk digital modern dengan arsitektur yang rap
 
 <br/>
 
-<details open>
-<summary><b>💡 Apa yang sedang saya kerjakan</b></summary>
-<br/>
-
-- 🔭 Mengembangkan dan memelihara **DPF Wakaf Website** sebagai PIC & Fullstack Developer
-- 🎨 Eksplorasi motion design menggunakan **GSAP** dan **Framer Motion**
-- 🧱 Menata ulang arsitektur frontend agar lebih scalable dan maintainable
-- 🌱 Terus memperdalam **TypeScript** dan clean architecture pada sisi backend
-
-</details>
-
 ---
 
 ### 🛠️ Tech Stack
